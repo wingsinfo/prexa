@@ -1,0 +1,53 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined variable: cart /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 96
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined variable: cartitem /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 104
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 05:15:22 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 08:27:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and product_name!="" order by tbl_product_id desc LIMIT  0,8' at line 1 - Invalid query: select * from tbl_product where tbl_main_category_id= and product_name!="" order by tbl_product_id desc LIMIT  0,8
+ERROR - 2016-09-24 08:27:53 --> Severity: Notice --> Undefined variable: cart /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 96
+ERROR - 2016-09-24 08:27:53 --> Severity: Notice --> Undefined variable: cartitem /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 104
+ERROR - 2016-09-24 10:04:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and product_name!="" order by tbl_product_id desc LIMIT  0,8' at line 1 - Invalid query: select * from tbl_product where tbl_main_category_id= and product_name!="" order by tbl_product_id desc LIMIT  0,8
+ERROR - 2016-09-24 10:04:42 --> Severity: Notice --> Undefined variable: cart /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 96
+ERROR - 2016-09-24 10:04:42 --> Severity: Notice --> Undefined variable: cartitem /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 104
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined variable: cart /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 96
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined variable: cartitem /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 104
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:14:53 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined variable: cart /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 96
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined variable: cartitem /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 104
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-24 10:38:07 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-24 20:21:21 --> Severity: Notice --> Undefined variable: tbl_shoping_cart /var/www/vastramela.com/public_html/application/views/Client/checkout.php 23
+ERROR - 2016-09-24 20:22:00 --> Severity: Notice --> Undefined variable: tbl_shoping_cart /var/www/vastramela.com/public_html/application/views/Client/checkout.php 23
+ERROR - 2016-09-24 20:22:00 --> Severity: Notice --> Undefined variable: tbl_shoping_cart /var/www/vastramela.com/public_html/application/views/Client/checkout.php 75

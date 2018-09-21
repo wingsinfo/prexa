@@ -1,0 +1,14 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2016-09-19 10:36:32 --> Severity: Notice --> Undefined index: id /var/www/vastramela.com/public_html/application/controllers/Cart.php 81
+ERROR - 2016-09-19 10:36:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and tbl_product_id=134' at line 1 - Invalid query: select * from tbl_shoping_cart WHERE tbl_customer_id= and tbl_product_id=134
+ERROR - 2016-09-19 10:36:32 --> Severity: Notice --> Undefined index: id /var/www/vastramela.com/public_html/application/controllers/Cart.php 91
+ERROR - 2016-09-19 10:36:32 --> Query error: Column 'tbl_customer_id' cannot be null - Invalid query: INSERT INTO `tbl_shoping_cart` (`tbl_product_id`, `tbl_customer_id`, `qty`, `c_date`) VALUES ('134', NULL, '1', '2016-09-19 10:36:32')
+ERROR - 2016-09-19 19:20:45 --> Severity: Notice --> Undefined variable: cart /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 95
+ERROR - 2016-09-19 19:20:45 --> Severity: Notice --> Undefined variable: cartitem /var/www/vastramela.com/public_html/application/views/Client/helper/header.php 103
+ERROR - 2016-09-19 19:20:45 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 51
+ERROR - 2016-09-19 19:20:45 --> Severity: Notice --> Undefined index: name /var/www/vastramela.com/public_html/application/views/Client/shop.php 72
+ERROR - 2016-09-19 20:12:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '->tbl where email=pratik166@live.com or pass=123456' at line 1 - Invalid query: select * from $this->tbl where email=pratik166@live.com or pass=123456
+ERROR - 2016-09-19 20:13:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '->tbl where email=pratik166@live.com or pass=1234567890' at line 1 - Invalid query: select * from $this->tbl where email=pratik166@live.com or pass=1234567890
+ERROR - 2016-09-19 20:14:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '->tbl where email=pratik166@live.com or pass=123456789' at line 1 - Invalid query: select * from $this->tbl where email=pratik166@live.com or pass=123456789
+ERROR - 2016-09-19 20:15:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '->tbl where email=lochawala.pratik@yahoo.com or pass=123456789' at line 1 - Invalid query: select * from $this->tbl where email=lochawala.pratik@yahoo.com or pass=123456789
